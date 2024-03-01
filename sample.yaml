@@ -1,0 +1,40 @@
+#key value pairs
+
+name: satish
+city: hyd
+
+#Dictionary/map
+#set of properties grouped together for an item
+
+class:
+  studentname: srinu
+  city: hyd
+
+#array/lists
+Person: #dictionary
+  name: srinu
+  city: hyd
+  hobbies: #list
+    - cycling
+    - swim
+  hobbies1: [cycling,swim]
+
+
+  #multiple lists
+  person: #dic
+    name: madhavi
+    city: hyd
+    hobbies: #list
+      - travel
+      - gvewu
+    friends: #
+      - name: friend1
+        place: guhwvdvuc
+
+      - name: friend2
+        place: jdbvijc
+
+---  # document separator
+
+
+
